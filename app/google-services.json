@@ -8,12 +8,20 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:676416405924:android:143a35ec12d67b3f",
+        "mobilesdk_app_id": "1:676416405924:android:4c950c784ed06319",
         "android_client_info": {
-          "package_name": "com.example.mgumiero9.myapplication"
+          "package_name": "space.tazo.android"
         }
       },
       "oauth_client": [
+        {
+          "client_id": "676416405924-5tg7srum4cbljpglmdpbml6fflcc90c9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "space.tazo.android",
+            "certificate_hash": "2E2BD07552DCD77E618F8A3DC30B8D43200292EA"
+          }
+        },
         {
           "client_id": "676416405924-o86mcduli6dfeic6l37tlr67i6pcpi4p.apps.googleusercontent.com",
           "client_type": 3
@@ -29,8 +37,13 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676416405924-o86mcduli6dfeic6l37tlr67i6pcpi4p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         },
         "ads_service": {
           "status": 2
@@ -39,17 +52,17 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:676416405924:android:4c950c784ed06319",
+        "mobilesdk_app_id": "1:676416405924:android:292a691a0da96484",
         "android_client_info": {
-          "package_name": "space.tazo.android"
+          "package_name": "space.tazo.tazo"
         }
       },
       "oauth_client": [
         {
-          "client_id": "676416405924-5tg7srum4cbljpglmdpbml6fflcc90c9.apps.googleusercontent.com",
+          "client_id": "676416405924-p5bocbgm8oq0dno1qq0clmi4gbk6fdve.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "space.tazo.android",
+            "package_name": "space.tazo.tazo",
             "certificate_hash": "2E2BD07552DCD77E618F8A3DC30B8D43200292EA"
           }
         },
